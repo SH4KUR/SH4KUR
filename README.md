@@ -1,28 +1,28 @@
 ### Hi! I'm Dmitriy aka SH4KUR👋
 
-* I'm a **.NET developer** and also an institute student. I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_, and some **SPA** _(Angular)_.
-* Also interested in new products in the world of **.NET development** and **IT** in general.
+* 💻 I'm a **.NET developer** and also an institute student. I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_, and some **SPA** _(Angular)_.
+* 📣 Also interested in new products in the world of **.NET development** and **IT** in general.
 
-> More on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
+> 📃 More on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
 
-## Connect with me:
+## 📬 Connect with me:
 
-[<img align="left" title="SH4KUR | Telegram" width="30px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/telegram.png" />][telegram]
-[<img align="left" title="SH4KUR | LinkedIn" width="30px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" title="SH4KUR | Instagram" width="30px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/instagram.png" />][instagram]
-[<img align="left" title="SH4KUR | Gmail" width="30px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
+[<img align="left" title="SH4KUR | LinkedIn" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" title="SH4KUR | Telegram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/telegram.png" />][telegram]
+[<img align="left" title="SH4KUR | Instagram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/instagram.png" />][instagram]
+[<img align="left" title="SH4KUR | Gmail" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
 
 <br />
 
 ---
 
 
-## My GitHub Stats
+## 📌 My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH4KUR&show_icons=true&count_private=true&hide_title=true&line_height=26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4KUR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technical Skills:
+## 💎 Technical Skills:
 <table>
     <tr>
         <td><b>Development Tools</b></td>
