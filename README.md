@@ -23,11 +23,11 @@ I'm a .NET developer and also an institute student.
 <br />
 
 * <div>
-  <img align="left" alt="C#" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/c-sharp.png" />
-  <img align="left" alt="HTML5" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-html-5-240.png" />
-  <img align="left" alt="CSS3" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-css3-240.png" />
-  <img align="left" alt="TypeScript" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-typescript-240.png" />
-  <img align="left" alt="JavaScript" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-javascript-240.png" />
+  <img align="left" alt="C#" height="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/c-sharp.png" />
+  <img align="left" alt="HTML5" height="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-html-5-240.png" />
+  <img align="left" alt="CSS3" height="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-css3-240.png" />
+  <img align="left" alt="TypeScript" height="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-typescript-240.png" />
+  <img align="left" alt="JavaScript" height="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-javascript-240.png" />
 </div>
 
 <br />
