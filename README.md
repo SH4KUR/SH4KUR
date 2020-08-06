@@ -49,24 +49,24 @@
     <tr>
         <td><b>Databases</b></td>
         <td>
-            <img title="left" alt="Microsoft SQL Server" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/microsoft-sql-server.png" />
-            <img title="left" alt="PostgreSQL" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/postgresql.png" />
-            <img title="left" alt="MySQL" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/mysql.png" />
-            <img title="left" alt="MongoDB" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/mongodb.png" />
+            <img title="Microsoft SQL Server" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/microsoft-sql-server.png" />
+            <img title="PostgreSQL" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/postgresql.png" />
+            <img title="MySQL" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/mysql.png" />
+            <img title="MongoDB" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/mongodb.png" />
         </td>
     </tr>
     <tr>
         <td><b>System Control Versions</b></td>
         <td>
-            <img title="left" alt="Git" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/git.png" />
-            <img title="left" alt="GitHub" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/github.png" />
+            <img title="Git" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/git.png" />
+            <img title="GitHub" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/github.png" />
         </td>
     </tr>
     <tr>
         <td><b>Operating System</b></td>
         <td>
-            <img title="left" alt="Windows 10" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/windows-10.png" />
-            <img title="left" alt="Ubuntu" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/ubuntu.png" />
+            <img title="Windows 10" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/windows-10.png" />
+            <img title="Ubuntu" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/ubuntu.png" />
         </td>
     </tr>
 </table>
