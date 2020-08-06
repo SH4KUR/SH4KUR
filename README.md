@@ -4,7 +4,7 @@ I'm a .NET developer and also an institute student.
 
 ## Connect with me:
 
-[<img align="left" alt="SH4KUR | Telegram" width="22px" src="./icons/icons8-telegram-app.svg" />][telegram]
+[<img align="left" alt="SH4KUR | Telegram" width="22px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/icons8-telegram-app.svg" />][telegram]
 [<img align="left" alt="SH4KUR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SH4KUR | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="SH4KUR | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
@@ -16,8 +16,8 @@ I'm a .NET developer and also an institute student.
 ## Languages and Tools:
 
 * <div>
-  <img align="left" alt="Visual Studio 2019" width="26px" src="./icons/icons8-visual-studio-2019.svg" />
-  <img align="left" alt="Visual Studio Code" width="26px" src="./icons/icons8-visual-studio-code-2019.svg" />
+  <img align="left" alt="Visual Studio 2019" width="26px" src="https://github.com/SH4KUR/SH4KUR/icons/icons8-visual-studio-2019.svg" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/SH4KUR/SH4KUR/icons/icons8-visual-studio-code-2019.svg" />
 </div>
 
 <br />
