@@ -29,7 +29,7 @@ I'm a .NET developer and also an institute student.
   <img align="left" alt="JavaScript" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/javascript.png" />
   <img align="left" alt="HTML5" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/html-5.png" />
   <img align="left" alt="CSS3" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/css3.png" />
-  <img align="left" alt="Bootstrap" width="33px" src="bootstrap.png" />
+  <img align="left" alt="Bootstrap" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/bootstrap.png" />
 </div>
 
 <br />
