@@ -1,10 +1,9 @@
 ### Hi! I'm Dmitriy aka SH4KUR👋
 
-I'm a .NET developer and also an institute student. I have experience in the areas development of web applications (ASP.NET Core MVC, Web API), desktop applications (WinForms, ConsoleApp). I also work with databases (MS SQL, PostgreSQL, MySQL, SQLite, MongoDB), and some SPA (Angular).
-   
-However, recently I began to be interested in the Angular framework, TypeScript language, Bootstrap, etc. Also interested in new products in the world of .NET development and IT in general.
-   
-More info on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
+* I'm a **.NET developer** and also an institute student. I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_, and some **SPA** _(Angular)_.
+* Also interested in new products in the world of **.NET development** and **IT** in general.
+
+> More on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
 
 ## Connect with me:
 
@@ -20,7 +19,7 @@ More info on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
 
 ## My GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH4KUR&show_icons=true&count_private=true&hide_title=true&count_private=true&line_height=26)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH4KUR&show_icons=true&count_private=true&hide_title=true&line_height=26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4KUR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technical Skills:
