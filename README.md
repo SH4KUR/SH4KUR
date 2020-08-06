@@ -13,7 +13,7 @@ I'm a .NET developer and also an institute student.
 
 ---
 
-## Languages and Tools:
+## Technical Skills:
 
 <table>
     <tr>
@@ -22,6 +22,8 @@ I'm a .NET developer and also an institute student.
             <img alt="Visual Studio 2019" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/visual-studio-2019.png" />
             <img alt="Visual Studio Code" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/visual-studio-code-2019.png" />
             <img alt="ReSharper" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/resharper.png" />
+            <img alt="PowerShell" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/powershell.png" />
+            <img alt="Console" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/console.png" />
         </td>
     </tr>
     <tr>
