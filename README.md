@@ -1,6 +1,6 @@
 ### Hi! I'm Dmitriy aka SH4KUR👋
 
-I'm a .NET developer and also an institute student. I have experience in the areas development of web applications (ASP.NET Core MVC, Web API), desktop applications (WinForms, ConsoleApp). I also work with databases (MS SQL, PostgreSQL, MySQL, SQLite, MongoDB).
+I'm a .NET developer and also an institute student. I have experience in the areas development of web applications (ASP.NET Core MVC, Web API), desktop applications (WinForms, ConsoleApp). I also work with databases (MS SQL, PostgreSQL, MySQL, SQLite, MongoDB), and some SPA (Angular).
    
 However, recently I began to be interested in the Angular framework, TypeScript language, Bootstrap, etc. Also interested in new products in the world of .NET development and IT in general.
    
