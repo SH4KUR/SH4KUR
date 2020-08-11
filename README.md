@@ -8,10 +8,10 @@
 
 ### 📬 Connect with me:
 
-[<img align="left" title="SH4KUR | LinkedIn" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" title="SH4KUR | Telegram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/telegram.png" />][telegram]
-[<img align="left" title="SH4KUR | Instagram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/instagram.png" />][instagram]
-[<img align="left" title="SH4KUR | Gmail" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
+[<img align="left" title="lopatiev | LinkedIn" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" title="lopatievdmitriy | Telegram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/telegram.png" />][telegram]
+[<img align="left" title="_sh4kur_ | Instagram" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/instagram.png" />][instagram]
+[<img align="left" title="dmitriy.lopatiev | Gmail" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
 
 <br />
 
@@ -63,7 +63,7 @@
         </td>
     </tr>
     <tr>
-        <td><b>Operating System</b></td>
+        <td><b>Operating Systems</b></td>
         <td>
             <img title="Windows 10" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/windows-10.png" />
             <img title="Ubuntu" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/ubuntu.png" />
