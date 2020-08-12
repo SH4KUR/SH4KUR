@@ -1,4 +1,4 @@
-### My Portfolio on GitHub Pages: [https://sh4kur.github.io/](https://sh4kur.github.io/)
+### My Portfolio on GitHub Pages: [https://SH4KUR.github.io/](https://sh4kur.github.io/)
 
 ---
 
