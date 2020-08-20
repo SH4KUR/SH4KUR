@@ -23,15 +23,12 @@
 
 ---
 
-
 ### 📌 My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH4KUR&show_icons=true&count_private=true&hide_title=true&line_height=26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4KUR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💎 Skills Overview:
-
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" />
 
 <table>
     <tr>
