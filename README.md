@@ -1,4 +1,4 @@
-### My Portfolio on Github Pages: [SH4KUR.github.io](https://sh4kur.github.io/)
+### My Portfolio on Github Pages: [SH4KUR.github.io](https://sh4kur.github.io/) 
 
 ---
 
@@ -30,6 +30,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4KUR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💎 Skills Overview:
+
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" />
+
 <table>
     <tr>
         <td><b>Development Tools</b></td>
@@ -76,6 +79,7 @@
         </td>
     </tr>
 </table>
+
 
 [instagram]: https://www.instagram.com/_sh4kur_/
 [linkedin]: https://www.linkedin.com/in/lopatiev/
