@@ -1,4 +1,4 @@
-### My Portfolio on Github Pages: [SH4KUR.github.io](https://sh4kur.github.io/) 
+### My Portfolio on Github Pages _(obsolete, will be updated in the future)_: [SH4KUR.github.io](https://sh4kur.github.io/) 
 
 ---
 
