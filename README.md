@@ -79,5 +79,4 @@
 
 [instagram]: https://www.instagram.com/_sh4kur_/
 [linkedin]: https://www.linkedin.com/in/lopatiev/
-[telegram]: https://t.me/lopatievdmitriy
 [gmail]: mailto:dmitriy.lopatiev@gmail.com
