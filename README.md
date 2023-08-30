@@ -2,9 +2,9 @@
 
 ---
 
-## Hi! I'm Dmitriy aka SH4KUR👋
+## Hi! I'm Dmitriy👋
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
+<img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
 
 * 😉 I'm a **Junior .NET Software Developer** and also an institute student.
 * 💻 I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_, and some **SPA** _(Angular, React)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_.
@@ -47,7 +47,6 @@
             <img title="JavaScript" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/javascript.png" />
             <img title="HTML5" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/html-5.png" />
             <img title="CSS3" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/css3.png" />
-            <img title="Bootstrap 4" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/bootstrap.png" />
         </td>
     </tr>
     <tr>
