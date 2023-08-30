@@ -1,4 +1,4 @@
-### My Portfolio on Github Pages _(obsolete, will be updated in the future)_: [SH4KUR.github.io](https://sh4kur.github.io/) 
+### My Portfolio on Github Pages _(obsolete)_: [SH4KUR.github.io](https://sh4kur.github.io/) 
 
 ---
 
@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
 
-* 😉 I'm a **.NET Software Developer** and also an institute student.
+* 😉 I'm a **.NET Software Developer**.
 * 💻 I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_, and some **SPA** _(Angular, React)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_.
-* 📣 Also interested in new products in the world of **.NET development** and **IT** in general.
+* 📣 Interested in new products in the world of **.NET development** and **IT** in general.
 
 > 📃 More on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
 
