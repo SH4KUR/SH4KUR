@@ -1,7 +1,3 @@
-### My Portfolio on Github Pages _(obsolete)_: [SH4KUR.github.io](https://sh4kur.github.io/) 
-
----
-
 ## Hi! I'm Dmitriy👋
 
 <img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
