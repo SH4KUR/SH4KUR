@@ -2,21 +2,6 @@
 
 <img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
 
-* 😉 I'm a **.NET Software Developer**.
-* 💻 I have experience in the areas development of **web applications** _(ASP.NET Core MVC, Web API)_, **desktop applications** _(WinForms, ConsoleApp)_, and some **SPA** _(Angular, React)_. I also work with **databases** _(MS SQL, PostgreSQL, MySQL, SQLite, MongoDB)_.
-* 📣 Interested in new products in the world of **.NET development** and **IT** in general.
-
-> 📃 More on my [LinkedIn](https://www.linkedin.com/in/lopatiev/)
-
-### 📬 Connect with me:
-
-[<img align="left" title="lopatiev | LinkedIn" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" title="dmitriy.lopatiev | Gmail" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
-
-<br />
-
----
-
 ### 📌 My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH4KUR&show_icons=true&count_private=true&line_height=21)](https://github.com/anuraghazra/github-readme-stats)
